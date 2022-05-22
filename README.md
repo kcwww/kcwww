@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
 
-</div>
 <div align=center>
 [![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321})](https://solved.ac/{cwkim0321})
 </div>
