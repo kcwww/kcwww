@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kcwww=anuraghazra&show_icons=true&theme=radical)]
 </div>
 <div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321)](http://solved.ac/cwkim0321/)
+[![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321@gmail.com})](https://solved.ac/{cwkim0321@gmail.com})
 </div>
 <div align=center>
 	
