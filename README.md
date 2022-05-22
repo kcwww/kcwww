@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kcwww=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kcwww=anuraghazra&show_icons=true&theme=radical)]
 </div>
 <div align=center>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321)](http://solved.ac/cwkim0321/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321)](http://solved.ac/cwkim0321/)]
 </div>
 <div align=center>
 	
