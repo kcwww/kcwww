@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=kcwww&show_icons=true&theme=radical" align=right>
+	<img src="https://github-readme-stats.vercel.app/api?username=kcwww&show_icons=true&theme=radical" align=left>
 </div>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact&theme=radical">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact&theme=radical" align=left>
 </div>
 
 
