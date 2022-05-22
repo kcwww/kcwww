@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkcwww&count_bg=%233D6CC8&title_bg=%239DD994&icon=mediafire.svg&icon_color=%23CE1515&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321})](https://solved.ac/{cwkim0321})
+[![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321@gmail.com})](https://solved.ac/{cwkim0321@gmail.com})
 
 
 	
