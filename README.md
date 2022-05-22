@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kcwww=anuraghazra&show_icons=true&theme=radical)]
+
 </div>
 <div align=center>
 [![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321@gmail.com})](https://solved.ac/{cwkim0321@gmail.com})
@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 	
  </div>
  
- 안녕하세요
+ <div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact&theme=radical)
+</div>
+ 
