@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 </div>
 <div align=center>
-[![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321@gmail.com})](https://solved.ac/{cwkim0321@gmail.com})
+[![kcw's boj](http://mazassumnida.wtf/api/v2/generate_badge?boj={cwkim0321})](https://solved.ac/{cwkim0321})
 </div>
 <div align=center>
 	
