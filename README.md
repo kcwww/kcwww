@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkcwww&count_bg=%23D7D71B&title_bg=%23C14FDD&icon=codeigniter.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
+<h3 align='center'>Contact</h3>
+<p align='center'>
+<a href="https://www.instagram.com/kcwww.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
+<a href="https://www.facebook.com/people/%EA%B9%80%EC%B0%AC%EC%9A%B0/100003078877927/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp
+<a href="https://cwkim0321.tistory.com"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp
+<a href="mailto:"cwkim0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
+</p>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=kcwww&show_icons=true&theme=radical" width=300px height=300px>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact&theme=radical" width=300px height=300px>
