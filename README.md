@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <a href="https://cwkim0321.tistory.com"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp
 <a href="mailto:"cwkim0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=kcwww&show_icons=true&theme=radical" width=300px height=300px>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact&theme=radical" width=300px height=300px>
-</div>
+<br>
 <h3 align='center'>Problem Solving</h3>
 <div align='center'>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=300px height=150px>
