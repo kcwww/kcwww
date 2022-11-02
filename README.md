@@ -1,4 +1,4 @@
-# KIM CHAN WOO 😄
+# KIM CHAN WOO 😄 <a href="https://profile.intra.42.fr/" target="_blank"><img style="width : 13%;" src="https://img.shields.io/badge/Seoul 8th-000000?style=flat&logo=42&logoColor=white"/></a>
 
 <!--
 **kcwww/kcwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
