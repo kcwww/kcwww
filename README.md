@@ -23,18 +23,21 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
+	<h3>PS</h3>
 <span style="margin-right : 50px">
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=300px height=150px>
 <!--<img src="http://mazandi.herokuapp.com/api?handle=cwkim0321&theme=warm"/ width=300px height=150px>-->
 </span>
+	<br>
+	<h3>42 Stats</h3>
 <span>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp9vry9003009l5xrfpy5zq/stats?cursusId=21&coalitionId=88" alt="chanwoki's 42 stats" /></a>
 </span>
 </div>
 
 
-<!--sns-->
+<!--sns
 <h3 align='center'>Contact</h3>
 <p align='center'>
 <a href="https://www.instagram.com/kcwww.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp
@@ -42,3 +45,4 @@ Here are some ideas to get you started:
 <a href="https://cwkim0321.tistory.com"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp
 <a href="mailto:"cwkim0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
+-->
