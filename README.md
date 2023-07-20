@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 </span>
 </div>
 
+<!--
+<img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 챌린지 과정 [2023.07.10 ~ 2023.08.04]
+
+<img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 멤버십 과정 [2022.08.29 ~ 2022.12.16]
+-->
+
+<!-- </p> -->
 
 <!--sns
 <h3 align='center'>Contact</h3>
@@ -46,3 +53,4 @@ Here are some ideas to get you started:
 <a href="mailto:"cwkim0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 -->
+
