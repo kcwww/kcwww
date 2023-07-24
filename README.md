@@ -21,27 +21,21 @@ Here are some ideas to get you started:
 
 <br>
 
+|**PS**|**42Seoul**|
+|------|---|
+|<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=200px height=100px>|<img src="https://badge42.vercel.app/api/v2/clgp9vry9003009l5xrfpy5zq/stats?cursusId=21&coalitionId=88" width=250px height=200px alt="chanwoki's 42 stats" />|
 
-<div align='center'>
-	<h3>PS</h3>
-<span style="margin-right : 50px">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=300px height=150px>
-<!--<img src="http://mazandi.herokuapp.com/api?handle=cwkim0321&theme=warm"/ width=300px height=150px>-->
-</span>
-	<br>
-	<h3>42 Stats</h3>
-<span>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp9vry9003009l5xrfpy5zq/stats?cursusId=21&coalitionId=88" alt="chanwoki's 42 stats" /></a>
-</span>
-</div>
+<br>
 
-<!--
+## Education
+
 - <img src="https://github.com/kcwww/kcwww/assets/98443541/3e5c6782-0494-4905-90f1-8dada36cdf32" width="16"> 42 서울 8기 Cadet 2022.11.07 ~
 
 
-- <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 챌린지 과정 2023.07.10 ~ 2023.08.04
+- <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 챌린지 과정 2023.07.10 ~ 
 
+<!--2023.08.04
 <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 멤버십 과정 [2022.08.29 ~ 2022.12.16]
 -->
 
