@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 
 <br>
-
+<!--
 |**PS**|**42Seoul**|
 |------|---|
 |<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=200px height=100px>|<img src="https://badge42.vercel.app/api/v2/clgp9vry9003009l5xrfpy5zq/stats?cursusId=21&coalitionId=88" width=250px height=200px alt="chanwoki's 42 stats" />|
-
+-->
 
 <br>
 
