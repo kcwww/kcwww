@@ -1,4 +1,4 @@
-# KIM CHAN WOO 😄 <a href="https://profile.intra.42.fr/" target="_blank"><img style="width : 13%;" src="https://img.shields.io/badge/Seoul 8th-000000?style=flat&logo=42&logoColor=white"/></a>
+## Introduce 💬
 
 <!--
 **kcwww/kcwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,31 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkcwww&count_bg=%23D7D71B&title_bg=%23C14FDD&icon=codeigniter.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 사람들의 삶에 가치를 더하는 경험을 제공하고자 하는 개발자 김찬우입니다.
+
+다양한 경험을 통해 다양한 시도를 하고, 문제를 해결하며
+
+사람들의 삶에 스며들어 도움이 되는 웹 서비스를 만들어 나가고자 합니다.
 
 
 <br>
-<!--
-|**PS**|**42Seoul**|
-|------|---|
-|<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwkim0321" width=200px height=100px>|<img src="https://badge42.vercel.app/api/v2/clgp9vry9003009l5xrfpy5zq/stats?cursusId=21&coalitionId=88" width=250px height=200px alt="chanwoki's 42 stats" />|
--->
+
+<div>
+<a href="https://www.chanwooyam.dev/">
+    <img src="https://d259untsmih4mi.cloudfront.net/main/main.png" width="48"/> 
+</a>
+<br>
+<a href="https://www.chanwooyam.dev/">
+    <img src="https://img.shields.io/badge/찬우얌 블로그-40AEF0?"/>
+</a>
+</div>
 
 <br>
 
-## Education
+## Series 🔭
+
+프로젝트, 회고 등 문제해결에 대해 고민하고 해결한 생각들입니다.
+
+| Title | Description | Tech Stack |
+| ---- | ---- | -------- |
+| [Next.js 로 만드는 나만의 블로그](https://www.chanwooyam.dev/series/next-blog) | Next.js 14 로 만든 블로그 제작기 | Next.js, shadcnui, Typescript, TailwindCSS |
+| [스노우볼 속 내 마음](https://www.chanwooyam.dev/series/snowball-project) | 네이버 부스트캠프에서 진행한 반응형 3D 모델 렌더링 프로젝트 | React, Vite, Typescript, Three.js |
+
+
+
+
+
+## Education & Experience
 
 - <img src="https://github.com/kcwww/kcwww/assets/98443541/3e5c6782-0494-4905-90f1-8dada36cdf32" width="16"> 42 서울 8기 Cadet 2022.11.07 ~
 
 
 - <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 챌린지 과정 2023.07.10 ~ 2023.08.04
 
+
 - <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16"> 네이버 부스트캠프 Web 멤버십 과정 2023.08.28 ~ 2023.12.15
 
+- <img src="https://github.com/kcwww/kcwww/assets/98443541/9b09dcc9-3d32-4764-a5b3-6529b0cd4586" width="16"> 멋쟁이 사자처럼 10기 2022.03 ~ 2023.09
 
-<!-- </p> -->
 
 <!--sns
 <h3 align='center'>Contact</h3>
