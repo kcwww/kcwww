@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 | ---- | ---- | -------- |
 | [Next.js 로 만드는 나만의 블로그](https://www.chanwooyam.dev/series/next-blog) | Next.js 14 로 만든 블로그 제작기 | Next.js, shadcnui, Typescript, TailwindCSS |
 | [스노우볼 속 내 마음](https://www.chanwooyam.dev/series/snowball-project) | 네이버 부스트캠프에서 진행한 반응형 3D 모델 렌더링 프로젝트 | React, Vite, Typescript, Three.js |
+| [제대로 서비스 리팩토링 하기](https://www.chanwooyam.dev/series/project-refactor) | 스노우볼 프로젝트를 제대로 서비스 하기 위해 리팩토링 하는 과정입니다. | Next.js, Jest, Storybook, ... |
 
 
 
