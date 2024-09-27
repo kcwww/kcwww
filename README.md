@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 - <img src="https://github.com/kcwww/kcwww/assets/98443541/9b09dcc9-3d32-4764-a5b3-6529b0cd4586" width="16"> 멋쟁이 사자처럼 10기 2022.03 ~ 2023.09
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwww&layout=compact">
 
 <!--sns
 <h3 align='center'>Contact</h3>
