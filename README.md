@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
+
 ## Series 🔭
 
 프로젝트, 회고 등 문제해결에 대해 고민하고 해결한 생각들입니다.
@@ -73,4 +75,6 @@ Here are some ideas to get you started:
 <a href="mailto:"cwkim0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 -->
+
+
 
