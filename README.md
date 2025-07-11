@@ -1,6 +1,26 @@
-## Introduce 💬
+### 사람들의 삶에 가치를 더하는 경험을 제공하고자 하는 개발자 김찬우입니다.
+
+
+
+<br>
+
+<div>
+<a href="https://www.chanwooyam.dev/">
+    <img src="https://d259untsmih4mi.cloudfront.net/main/main.png" width="48"/> 
+</a>
+<br>
+<a href="https://www.chanwooyam.dev/">
+    <img src="https://img.shields.io/badge/찬우얌 블로그-40AEF0?"/>
+</a>
+</div>
+
+<br>
 
 <!--
+
+## Introduce 💬
+
+
 **kcwww/kcwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,13 +33,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### 사람들의 삶에 가치를 더하는 경험을 제공하고자 하는 개발자 김찬우입니다.
 
-다양한 경험을 통해 다양한 시도를 하고, 문제를 해결하며
-
-사람들의 삶에 스며들어 도움이 되는 서비스를 만들어 나가고자 합니다.
 
 
 <br>
